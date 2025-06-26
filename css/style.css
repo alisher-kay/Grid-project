@@ -15,8 +15,8 @@
 
 .grid-elem {
     /* height: 50px; */
-    background-color: rgba(1, 1, 96, 1);
-    color: #fff;
+    background-color: rgb(77, 77, 150);
+    color: #40c12a;
     line-height: 50px;
     text-align: center;
     font-size: 26px;
